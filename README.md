@@ -9,3 +9,13 @@ Java JDK	  /  11+	  /Lógica do sistema (POO)
 MySQL	      /8.0+	    /Armazenamento de dados
 VS Code	    /Latest	  /Editor de código
 
+Estrutura do Projeto
+
+salao-agendamento/
+├── java/                   # Código Java (POO)
+│   ├── Cliente.java        # Modelo de cliente
+│   ├── Servico.java        # Modelo de serviço
+│   └── Agendamento.java    # Modelo de agendamento
+├── sql/
+│   ├── schema.sql          # Script de criação do BD
+└── README.md               # Este arquivo
