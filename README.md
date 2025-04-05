@@ -1,8 +1,7 @@
 # salao-agendamento
 Protótipo de Sistema de Agendamento de clientes
 
-Sistema de agendamento desenvolvido em Java POO + MySQL para gestão de clientes, serviços e horários em salões de beleza,
-Objetivo: Substituir agendas físicas por um sistema digital intuitivo para a dona do salão.
+Sistema independente para gestão de agendamentos em salão de beleza com a Lógica do sistema com modelo POO Java e a estrutura do Banco de Dados com modelo MySQL, sem integração entre eles neste protótipo.
 
 Tecnologias Utilizadas
 Componente	/ Versão	/ Finalidade
